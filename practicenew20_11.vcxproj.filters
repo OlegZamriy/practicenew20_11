@@ -12,7 +12,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h">
+    <ClInclude Include="header.h">
       <Filter>fuck</Filter>
     </ClInclude>
   </ItemGroup>
